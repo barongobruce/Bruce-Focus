@@ -322,7 +322,7 @@ section { position: relative; }
   z-index: -1;
   
   /* Desktop Image */
-  background-image: url('images/hero3.png') !important;
+  background-image: url('images/hero4.png') !important;
   background-size: 100% !important;
   background-position: center center !important;
   background-repeat: no-repeat !important;
@@ -331,7 +331,7 @@ section { position: relative; }
 /* MOBILE IMAGE SWAP */
 @media (max-width: 768px) {
   .hero-media {
-    background-image: url('images/hero2.png') !important;
+    background-image: url('images/hero5.png') !important;
   }
 }
 

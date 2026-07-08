@@ -147,7 +147,7 @@
     // SWAP THE IMAGE SOURCE ON MOBILE
     if (isMobile) {
       // 👇 CHANGE 'your-image-name.png' TO YOUR ACTUAL FILENAME 👇
-      heroImage.src = 'images/hero3.png'; 
+      heroImage.src = 'images/hero5.png'; 
       heroImage.style.objectPosition = 'center center';
     }
 
@@ -595,10 +595,10 @@ function initWhatsAppBooking() {
       '*Event Date:* ' + encodeURIComponent(eventDate) + '%0A' +
       '*Event Time:* ' + encodeURIComponent(eventTime) + '%0A' +
       '*Message:* ' + encodeURIComponent(message || 'No additional message') + '%0A%0A' +
-      'Sent from Legend Mash Studios website';
+      'Sent from Brucee Focus digital website';
     
     // Your WhatsApp number (replace with actual number)
-    var whatsappNumber = '254790817100'; // Format: country code + number (no + or spaces)
+    var whatsappNumber = '254710802808'; // Format: country code + number (no + or spaces)
     
     // Open WhatsApp
     var whatsappURL = 'https://wa.me/' + whatsappNumber + '?text=' + whatsappMessage;
