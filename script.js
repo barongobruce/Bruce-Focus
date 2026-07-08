@@ -147,7 +147,7 @@
     // SWAP THE IMAGE SOURCE ON MOBILE
     if (isMobile) {
       // 👇 CHANGE 'your-image-name.png' TO YOUR ACTUAL FILENAME 👇
-      heroImage.src = 'images/hero5.png'; 
+      heroImage.src = 'images/hero5.webp'; 
       heroImage.style.objectPosition = 'center center';
     }
 
